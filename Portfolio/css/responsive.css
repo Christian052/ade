@@ -1,0 +1,10 @@
+
+@media (max-wigth:800px) {
+    body {
+        /* background-image: url('../images/HD-Technology-Wallpapers.jpg'); */
+        background-color: blue;
+        background-size: cover;
+        margin: 0px;
+    }
+
+}
